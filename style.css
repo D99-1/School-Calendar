@@ -1,0 +1,23 @@
+
+
+/* * {
+       border: solid;
+} */
+
+
+.header{
+    border: solid;
+    background-color: #240779;
+    display: flex;
+    align-items: 'center';
+   padding-top: 1cm;
+}
+
+a:link{
+    color: #1AD4B5;
+    
+}
+a:visited{
+    color: #83D6FF;
+}
+
